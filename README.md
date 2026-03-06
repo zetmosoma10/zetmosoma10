@@ -2,8 +2,8 @@
 
 ### Full-Stack Web Developer | React • Tanstack Start • Node.js • MongoDB • Tailwind CSS
 
-I build scalable, production-ready web applications from frontend to backend.  
-Passionate about clean architecture, real-world problem solving, and continuous growth.
+I build scalable, production ready web applications from frontend to backend.  
+Passionate about clean architecture, real world problem solving, and continuous growth.
 
 ---
 
