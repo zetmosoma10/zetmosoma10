@@ -12,7 +12,7 @@ Passionate about clean architecture, real world problem solving, and continuous 
 - 💻 Full-Stack Web Developer
 - 🌍 Based in South Africa
 - 🧠 Currently leveling up in backend architecture & system design
-- 🔎 Open to freelance and junior full-stack opportunities
+- 🔎 Open to freelance, Frontend and junior full-stack opportunities
 - 📚 Constant learner focused on writing clean, maintainable code
 
 ---
